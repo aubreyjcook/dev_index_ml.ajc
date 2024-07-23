@@ -1,2 +1,3 @@
 # dev_index_ml.ajc
-Machine Learning Implementations
+
+Technology-agnositic sandbox environment for indexing implementations of Machine Learning.
