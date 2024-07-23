@@ -1,3 +1,3 @@
 # dev_index_ml.ajc
 
-Technology-agnositic environment for indexing implementations of Machine Learning.
+Technology-agnostic environment for indexing implementations of Machine Learning.
